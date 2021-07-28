@@ -15,7 +15,7 @@ const SimpleButton2 = () => {
     return (
     <Button2>
         <a href="https://www.youtube.com/channel/UCMRR_C7n2fx7eies_SJisng">
-          Git
+          Videos Karbook
         </a> 
       </Button2>
     )
