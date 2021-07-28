@@ -2,7 +2,7 @@ import React from"react";
 import styled from"styled-components";
 
 const Button2 = styled.button`
-	background: #F5534E;
+	background: red;
 	color: white;
 	border: none;
 	padding: 15px;
@@ -15,7 +15,7 @@ const SimpleButton2 = () => {
     return (
     <Button2>
         <a href="https://www.youtube.com/channel/UCMRR_C7n2fx7eies_SJisng">
-          Videos Karbook
+          Diana
         </a> 
       </Button2>
     )
